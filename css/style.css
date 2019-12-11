@@ -1,1 +1,23 @@
-p{font-size:1em;color:black}
+p {
+  font-size: 1em;
+  color: black;
+}
+.btn {
+  display: inline-block;
+  line-height: 2.2;
+  color: #ffffff;
+  background-color: #ea83ee;
+  text-align: center;
+  font-size: 10px;
+  border: none;
+  cursor: pointer;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+.btn:hover {
+  text-decoration: none;
+  color: #ffffff;
+}
+.btn--alert {
+  background-color: #da0000;
+}
