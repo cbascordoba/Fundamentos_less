@@ -1,3 +1,13 @@
+.section {
+  max-width: 1023px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.container {
+  max-width: 1023px;
+  margin-left: auto;
+  margin-right: auto;
+}
 p {
   font-size: 1em;
   color: black;
@@ -21,13 +31,11 @@ p {
 .btn--alert {
   background-color: #da0000;
 }
-.section {
-  max-width: 1024px;
-  margin-left: auto;
-  margin-right: auto;
-}
 .container {
-  max-width: 1024px;
+  padding: 24px;
+}
+.container--lading {
+  max-width: 80%;
   margin-left: auto;
   margin-right: auto;
 }
