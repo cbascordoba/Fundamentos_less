@@ -39,6 +39,9 @@ body {
   line-height: 1.5;
   color: black;
 }
+br {
+  color: #ff0000;
+}
 p {
   font-size: 1em;
   color: black;
